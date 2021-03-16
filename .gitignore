@@ -1,0 +1,5 @@
+# name of folder with slash
+/node_modules
+
+# name of file with extention
+.env
